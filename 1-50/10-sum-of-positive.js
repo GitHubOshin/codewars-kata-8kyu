@@ -23,5 +23,4 @@ console.log(positiveSum([])) // 0
 console.log(positiveSum([-1, -2, -3, -4, -5])) // 0
 console.log(positiveSum([-1, 2, 3, 4, -5])) // 9
 
-const testForEach = [1, 2, 3, 4, 5].map((x) => x)
-console.log(testForEach)
+
